@@ -1,0 +1,930 @@
+/* Ошибки авторизация — Light */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #DEDEDE;
+
+
+/* poster2 1 */
+
+position: absolute;
+width: 724px;
+height: 1024px;
+left: 716px;
+top: 0px;
+
+background: url(poster2.jpg);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: -1px;
+top: 0px;
+
+background: linear-gradient(90deg, #DEDEDE 48.5%, rgba(222, 222, 222, 0) 61%);
+background-blend-mode: plus-lighter;
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90deg, #DEDEDE 38%, rgba(222, 222, 222, 0) 78.5%);
+
+
+/* Group 144 */
+
+position: absolute;
+width: 478px;
+height: 800px;
+left: 127px;
+top: 112px;
+
+
+
+/* Frame 142 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 478px;
+height: 800px;
+left: 127px;
+top: 112px;
+
+
+
+/* Group 142 */
+
+width: 722px;
+height: 523px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 119px;
+height: 205px;
+left: 359px;
+top: 18px;
+
+
+
+/* Group 134 */
+
+width: 119px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 129px;
+height: 55px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 177, 122, 0.75);
+box-shadow: 0px 3px 10px rgba(255, 195, 153, 0.5);
+border-radius: 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.34%;
+right: 8.4%;
+top: 21.82%;
+bottom: 23.64%;
+
+background: rgba(239, 239, 239, 0.75);
+
+
+/* Rectangle 22 */
+
+width: 119px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(26, 26, 31, 0.75);
+box-shadow: 0px 3px 10px rgba(79, 79, 83, 0.1);
+border-radius: 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.42%;
+right: 14.29%;
+top: 21.82%;
+bottom: 23.64%;
+
+background: rgba(255, 177, 122, 0.75);
+
+
+/* Rectangle 23 */
+
+width: 119px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(26, 26, 31, 0.75);
+box-shadow: 0px 3px 10px rgba(79, 79, 83, 0.1);
+border-radius: 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.42%;
+right: 14.29%;
+top: 21.82%;
+bottom: 23.64%;
+
+background: rgba(255, 177, 122, 0.75);
+
+
+/* Group 151 */
+
+position: absolute;
+width: 353px;
+height: 55px;
+left: 369px;
+top: 168px;
+
+
+
+/* Frame 151 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 20px 15px 50px;
+gap: 20px;
+
+position: absolute;
+width: 353px;
+height: 55px;
+left: 369px;
+top: 168px;
+
+background: #D7345F;
+box-shadow: 0px 3px 10px rgba(215, 52, 95, 0.35);
+border-radius: 10px;
+
+
+/* Неверный логин или пароль */
+
+width: 248px;
+height: 25px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #EFEFEF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 15px;
+height: 15px;
+
+background: #EFEFEF;
+border-radius: 1px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 152 */
+
+position: absolute;
+width: 316px;
+height: 55px;
+left: 369px;
+top: 280px;
+
+
+
+/* Frame 151 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 20px 15px 50px;
+gap: 20px;
+
+position: absolute;
+width: 316px;
+height: 55px;
+left: 369px;
+top: 280px;
+
+background: #D7345F;
+box-shadow: 0px 3px 10px rgba(215, 52, 95, 0.35);
+border-radius: 10px;
+
+
+/* Вы не прошли проверку */
+
+width: 211px;
+height: 25px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #EFEFEF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 15px;
+height: 15px;
+
+background: #EFEFEF;
+border-radius: 1px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 404px;
+height: 523px;
+left: 0px;
+top: 0px;
+
+background: #EFEFEF;
+box-shadow: 0px 3px 10px rgba(79, 79, 83, 0.1);
+border-radius: 10px;
+
+
+/* Авторизация */
+
+position: absolute;
+width: 156px;
+height: 33px;
+left: 123px;
+top: 29px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #1A1A1F;
+
+
+
+/* Group 135 */
+
+position: absolute;
+width: 250px;
+height: 55px;
+left: 77px;
+top: 439px;
+
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 250px;
+height: 55px;
+left: 77px;
+top: 439px;
+
+background: rgba(255, 177, 122, 0.75);
+box-shadow: 0px 3px 10px rgba(255, 195, 153, 0.5);
+border-radius: 10px;
+
+
+/* войти */
+
+position: absolute;
+width: 70.28px;
+height: 29px;
+left: 166px;
+top: 452px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Group 140 */
+
+position: absolute;
+width: 360px;
+height: 154px;
+left: 22px;
+top: 93px;
+
+
+
+/* Забыли пароль? */
+
+position: absolute;
+width: 109px;
+height: 19px;
+left: 272px;
+top: 228px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: right;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Регистрация */
+
+position: absolute;
+width: 84px;
+height: 19px;
+left: 23px;
+top: 228px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Frame 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 360px;
+height: 130px;
+left: 22px;
+top: 93px;
+
+
+
+/* Group 139 */
+
+width: 360px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 360px;
+height: 55px;
+left: 0px;
+top: 0px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+
+/* Логин */
+
+position: absolute;
+width: 53px;
+height: 25px;
+left: 25px;
+top: 15px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Group 138 */
+
+width: 360px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 360px;
+height: 55px;
+left: 0px;
+top: 75px;
+
+background: rgba(215, 52, 95, 0.25);
+border-radius: 10px;
+
+
+/* eye-password-show-svgrepo-com 1 */
+
+position: absolute;
+left: 87.19%;
+right: 6.13%;
+top: 70%;
+bottom: 11.54%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 16.67%;
+bottom: 50%;
+
+border: 2px solid #838388;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 50%;
+bottom: 16.67%;
+
+border: 2px solid #838388;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 2px solid #838388;
+
+
+/* Пароль */
+
+position: absolute;
+width: 68.19px;
+height: 25px;
+left: 25.07px;
+top: 90px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Frame 141 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 360px;
+height: 130px;
+left: 22px;
+top: 280px;
+
+
+
+/* Group 137 */
+
+width: 360px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 360px;
+height: 55px;
+left: 0px;
+top: 0px;
+
+background: rgba(215, 52, 95, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 23 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23.06px;
+height: 23px;
+left: 19.05px;
+top: 16px;
+
+border: 2px solid rgba(26, 26, 31, 0.75);
+border-radius: 5px;
+
+
+/* Я не робот */
+
+position: absolute;
+width: 98.27px;
+height: 25px;
+left: 52.14px;
+top: 15px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Group 136 */
+
+width: 360px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 360px;
+height: 55px;
+left: 0px;
+top: 75px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 10px;
+
+
+/* Запомнить меня */
+
+position: absolute;
+width: 150.42px;
+height: 25px;
+left: 52.14px;
+top: 90px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Group 146 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 20.05px;
+top: 91px;
+
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 20.05px;
+top: 91px;
+
+border: 2px solid rgba(26, 26, 31, 0.75);
+border-radius: 5px;
+
+
+/* Frame 4 */
+
+position: absolute;
+width: 19px;
+height: 19px;
+left: 22px;
+top: 93px;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 2px;
+height: 6px;
+left: 3.64px;
+top: 10.12px;
+
+background: #4C4C50;
+border-radius: 2px;
+transform: rotate(-44.98deg);
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 12px;
+height: 2px;
+left: 6.46px;
+top: 12.95px;
+
+background: #4C4C50;
+border-radius: 2px;
+transform: rotate(-44.98deg);
+
+
+/* Group 143 */
+
+width: 404px;
+height: 227px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 404px;
+height: 227px;
+left: 0px;
+top: 573px;
+
+background: #EFEFEF;
+box-shadow: 0px 3px 10px rgba(79, 79, 83, 0.1);
+border-radius: 10px;
+
+
+/* Советуем посмотреть */
+
+position: absolute;
+width: 360px;
+height: 25px;
+left: 22px;
+top: 17px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(26, 26, 31, 0.75);
+
+
+
+/* Реинкарнация безработного: История о приключениях в другом мире */
+
+position: absolute;
+width: 360px;
+height: 93px;
+left: 22px;
+top: 47px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 23px;
+line-height: 31px;
+display: flex;
+align-items: center;
+
+color: #1A1A1F;
+
+
+
+/* Group 136 */
+
+position: absolute;
+width: 360px;
+height: 55px;
+left: 22px;
+top: 154px;
+
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 360px;
+height: 55px;
+left: 22px;
+top: 154px;
+
+background: rgba(217, 217, 217, 0.5);
+border-radius: 10px;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23.06px;
+height: 23px;
+left: 41.05px;
+top: 170px;
+
+border: 2px solid rgba(26, 26, 31, 0.75);
+border-radius: 5px;
+
+
+/* Смотреть после авторизации */
+
+position: absolute;
+width: 249px;
+height: 25px;
+left: 74.14px;
+top: 169px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: rgba(26, 26, 31, 0.75);
+
